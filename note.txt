@@ -1,0 +1,10 @@
+-git add :- to notice
+-git commit:-keep permanent record . multiple features and files and be kept
+-git branch:- to work in new branch (seggrigates)
+-git checkout:- to jump in branch (revert)
+-git push:- afno bata pathauna
+-git pull:
+-git init
+-git log:- shows commited details
+-git config -: 
+-git remote: 
